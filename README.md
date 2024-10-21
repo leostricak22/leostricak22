@@ -1,22 +1,17 @@
 # Leo Stričak
 
----
-
 ## About Me
 
 Hi, I'm Leo Stričak, a dedicated student pursuing my studies at the Zagreb University of Applied Sciences (TVZ) with a keen focus on Computer Science. I am strongly interested in cybersecurity and software development.
 
 I am passionate about applying my academic knowledge in practical settings, as evidenced by my involvement in various relevant projects and activities.
 
----
 ## Projects
 
 - Resume page (https://github.com/leostricak22/resume) - My online resume
 - My projects (https://github.com/leostricak22/my-projects) - A collection of my projects
 
 You can check out my projects [here](https://projects.barbuddy.net/).
-
----
 
 ## Let's Connect!
 
